@@ -1,4 +1,3 @@
-![shrijani](https://user-images.githubusercontent.com/58011593/148705607-58b175da-c4be-4762-9cb5-1f7485ca0be0.jpg)
 ### Hey there!
 **I am a 1st year Computer Science and Engineering major @ UC Irvine**  
 - I am currently learning Android app development and Web development
