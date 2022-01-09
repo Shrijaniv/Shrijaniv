@@ -1,3 +1,4 @@
+![Shrijani](/desktop/shrijani)
 ### Hey there!
 **I am a 1st year Computer Science and Engineering major @ UC Irvine**  
 - I am currently learning Android app development and Web development
