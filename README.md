@@ -4,4 +4,4 @@
 - I previously interened for Alan AI and developed a voice command based Tic Tac Toe app in Android studio using Java
 - The app is available in Google play to [download](https://play.google.com/store/apps/details?id=com.tictactoe.VoiceTacToe)
 - *Known Languages*: Java and Python
-- *Learning Langugages*: Kotlin, React, Java Script
+- *Learning Langugages*: Kotlin, React, Java Script, HTML and CSS
